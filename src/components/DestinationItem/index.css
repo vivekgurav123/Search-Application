@@ -1,0 +1,7 @@
+/* Write your CSS here */
+.item-container .dest-image {
+  width: 90%;
+}
+.dest-name {
+  text-align: left;
+}

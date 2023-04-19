@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.container {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+.list-container {
+  list-style: none;
+  text-align: left;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+}
+.search {
+  position: relative;
+}
+.search img {
+  position: absolute;
+  top: 3px;
+  right: 587px;
+  width: 20px;
+}
